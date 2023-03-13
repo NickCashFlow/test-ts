@@ -1,0 +1,19 @@
+{
+  "name": "test-ts",
+  "version": "0.0.1",
+  "description": "test ts in npm",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickCashFlow/test-ts.git"
+  },
+  "author": "NickG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickCashFlow/test-ts/issues"
+  },
+  "homepage": "https://github.com/NickCashFlow/test-ts#readme"
+}

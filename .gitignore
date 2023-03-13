@@ -1,0 +1,10 @@
+.*
+!/.gitignore
+node_modules
+build
+*.js.map
+coverage
+*.log
+package-lock.json
+doc
+.idea/
